@@ -1,0 +1,2 @@
+DATABASE = 'math.db'
+TOKEN = ''
